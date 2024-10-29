@@ -1,0 +1,80 @@
+---
+title: "Resume"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+### Riya Nadkarni
+
+New York, NY 10032 | (322) 388-5647 
+
+* [rcn2115@cumc.columbia.edu](rcn2115@cumc.columbia.edu)
+* [Lindkedin](https://www.linkedin.com/in/riya-nadkarni-7365bb210/)
+
+**EDUCATION**
+
+  * **Columbia University Mailman School of Public Health**, New York, NY	 
+  
+  September 2023 – May 2025
+  
+  Master of Public Health (MPH),
+Epidemiology with a Certificate in Applied Biostatistics and Public Health Data Science
+
+CGPA: 3.81
+
+Thesis: Associations between cyberbullying and suicidality among rural youth, Otsego County, NY from YRBS data (2016-2023)
+
+  * **Institute of Chemical Technology **, Mumbai, India
+  
+  August 2019 – May 2023
+  
+  Bachelor of Pharmacy
+  
+GPA: 3.87 
+
+Thesis: Intranasal Administration of Antiparkinsonian Drugs using Nanocarriers
+
+
+**EXPERIENCE**
+
+  * **NYC Department of Health and Mental Hygiene   ** - Queens, NY 
+  
+July 2024 - present 
+
+HTRP intern
+
+  * **Columbia University, Department of Neurology** - New York, NY	
+  
+June 2024-Present
+
+Research Assistant 
+
+  * **Bassett Research Institute ** - Cooperstown, NY
+  
+June 2024 - August 2024
+
+Research Assistant
+
+
+  * **MEDBOUND** - Mumbai, India
+  
+November 2022
+
+Health Communication intern
+
+  * **Sandoz** - Mumbai, India				
+  
+June 2022-May2022
+
+Intern
+
+**SKILLS**
+
+Programming languages: R, SAS, Stata, SQL, C++
+	
+Softwares: REDCap, OpenEpi, DAGitty
+
+[Github](https://github.com/Riya-rcn2115)

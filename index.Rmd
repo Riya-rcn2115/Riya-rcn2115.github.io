@@ -1,5 +1,5 @@
 ---
-title: "Resume"
+title: "Riya Nadkarni"
 output: 
   html_document:
     toc: true
@@ -7,6 +7,13 @@ output:
     theme: cerulean
 ---
 
-# This is my resume 
+This is Riya Nadkarni.
+
+![](C:\Users\nadka\Downloads\00002.jpg)
+
+Click here to view my [resume](about.html)
+
+
+
 
 
