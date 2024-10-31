@@ -1,15 +1,10 @@
 ---
 title: "Riya Nadkarni"
-output: 
-  html_document:
-    toc: true
-    toc_float: true
-    theme: cerulean
 ---
 
 This is Riya Nadkarni.
 
-![](00002.jpg)
+<br><img src="images/00002.jpg"><br>
 
 Click here to view my [resume](about.html)
 
