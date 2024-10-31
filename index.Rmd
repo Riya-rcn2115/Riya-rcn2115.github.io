@@ -9,7 +9,7 @@ output:
 
 This is Riya Nadkarni.
 
-![](C:\Users\nadka\Downloads\00002.jpg)
+![](00002.jpg)
 
 Click here to view my [resume](about.html)
 
